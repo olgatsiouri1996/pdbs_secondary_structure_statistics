@@ -1,4 +1,4 @@
-# pdbs secondary structure statistics
+# pdbs secondary structure statistics [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5829720.svg)](https://doi.org/10.5281/zenodo.5829720)
 GUI Program to calculate the percentage of each secondary structure for each input pdb file in a user specified directory
 
 ![](program_gui.png)
