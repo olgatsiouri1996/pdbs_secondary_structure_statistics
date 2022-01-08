@@ -1,5 +1,5 @@
 # pdbs secondary structure statistics 
-GUI Program to calculate the percentage of each secondary structure for each input pdb file in a user specified directory
+Linux GUI Program to calculate the percentage of each secondary structure for each input pdb file in a user specified directory
 
 ![](program_gui.png)
 
