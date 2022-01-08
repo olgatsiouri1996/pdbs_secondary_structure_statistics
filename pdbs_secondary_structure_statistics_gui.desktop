@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/linuxubuntu2004/apps/pdbs_dssp_results/pdbs_secondary_structure_statistics_gui.py
+Icon=/home/linuxubuntu2004/apps/pdbs_dssp_results/carbohydrate_synthase.jpeg
+Name=pdbs_secondary_structure_statistics_gui
+Type=Application
+
