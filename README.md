@@ -1,16 +1,16 @@
-# pdbs secondary structure statistics [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5829720.svg)](https://doi.org/10.5281/zenodo.5829720)
+# pdbs secondary structure statistics 
 GUI Program to calculate the percentage of each secondary structure for each input pdb file in a user specified directory
 
 ![](program_gui.png)
 
 ## Depedences
-1. linux OS(tested on ubuntu 20.04 LTS)
+1. linux OS (tested on ubuntu 20.04 LTS)
 2. python 3.8.2 or later
-3. biopython `pip install biopython`
-4. pandas `pip install pandas`
-5. anaconda or miniconda
-4. Gooey `conda install -c conda-forge gooey`
+3. anaconda or miniconda
+4. Gooey `conda install -c conda-forge gooey`(if you get errors during installation or runtime try installing gtk `sudo apt-get install libgtk-3-dev`)
 5. DSSP `conda install -c salilab dssp`
+6. biopython `pip install biopython`
+7. pandas `pip install pandas`
 
 ## linux desktop app installation
 1. open a linux text editor and edit in the python file the shebang and the PATH to the dssp executable. To find where they are located in the system type:  
