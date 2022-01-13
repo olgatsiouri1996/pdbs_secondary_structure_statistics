@@ -1,7 +1,7 @@
-# pdbs secondary structure statistics [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5829720.svg)](https://doi.org/10.5281/zenodo.5829720)
+# pdbs secondary structure statistics 
 Linux GUI Program to calculate the percentage of each secondary structure for each input pdb file in a user specified directory
 
-![](program_gui.png)
+![](img/program_gui.png)
 
 ## Depedences
 1. linux OS (tested on ubuntu 20.04 LTS)
@@ -27,6 +27,6 @@ which dssp
 ## Example output
 The program's output file will look like:
 
-![](example_output.png)
+![](img/example_output.png)
 
 For output explanation look up the [DSSP codes](https://biopython.org/docs/1.76/api/Bio.PDB.DSSP.html)
